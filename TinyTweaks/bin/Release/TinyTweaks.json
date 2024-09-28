@@ -1,0 +1,20 @@
+{
+  "Author": "Redeven",
+  "Name": "TinyTweaks",
+  "InternalName": "TinyTweaks",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Collection of small QoL tweaks and commands",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/redeven/TinyTweaks",
+  "Tags": [
+    "tweaks"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/Data/icon.png",
+  "Punchline": "Collection of small QoL tweaks and commands",
+  "AcceptsFeedback": true
+}
